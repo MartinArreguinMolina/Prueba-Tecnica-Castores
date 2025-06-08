@@ -32,6 +32,7 @@
     5. Hacer clic en **Clone**
 
 3. **Correr la aplicación web Java con Spring Boot**
+    - Abrir XAMPP e iniciamos Apache y MySQL
     - Ejecutar el proyecto desde IntelliJ IDEA
     - Abrir en el navegador:
       ```
