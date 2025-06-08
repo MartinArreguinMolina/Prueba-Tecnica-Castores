@@ -1,10 +1,14 @@
+
 # Prueba técnica Castores
 
 ---
+### Sigue la siguiente serie de instrucciones para correr la aplicacion
 
-## Herramientas y tecnologías utilizadas
+---
 
-- **Java JDK 17** con Maven
+## Herramientas y tecnologías a utilizar
+
+- **Java JDK 17 y SprintBoot** con Maven
 - **IntelliJ IDEA Ultimate Edition 2024.3.1.1** (puede funcionar con cualquier versión)
 - **DBMS: XAMPP 8.2.12** (puede funcionar con cualquier versión de XAMPP)
 
@@ -32,15 +36,22 @@
     5. Hacer clic en **Clone**
 
 3. **Correr la aplicación web Java con Spring Boot**
-    - Abrir XAMPP e iniciamos Apache y MySQL
-    > **IMPORTANTE:**
-    > PARA QUE LA APLICACION FUNCIONE CORRECTAMENTE DEBES DE IMPORTAR LA BASE DE DATOS QUE SE ENCUENTRA EN LA CARPETA SCRIPTS
-    > DEBES ABRIR XAMPP Y DAR CLICK EN ADMIN DEL MODULE MYSQL, UNA VEZ DENTRO DE PHPMYADMIN IMPORTA EL SCRIPT MENCIONADO ANTERIORMENTE
-    - Ejecutar el proyecto desde IntelliJ IDEA
+
+    - Abrir XAMPP e iniciar Apache y MySQL.
+
+   **IMPORTANTE**
+
+   > Para que la aplicación funcione correctamente, debes importar la base de datos que se encuentra en la carpeta **scripts**.  
+   > Para ello:
+   > 1. Abrir XAMPP y hacer clic en **Admin** del módulo **MySQL**.
+   > 2. Dentro de **phpMyAdmin**, importar el script mencionado anteriormente.
+
+    - Ejecutar el proyecto desde **IntelliJ IDEA**.
     - Abrir en el navegador:
-      ```
+      ```shell
       http://localhost:8000
       ```
+
 
 4. **Tu aplicación de inventario estará corriendo perfectamente**
     1. Puedes ingresar la siguiente informacion de  los roles en el login
