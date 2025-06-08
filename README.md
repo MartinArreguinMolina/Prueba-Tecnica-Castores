@@ -33,6 +33,9 @@
 
 3. **Correr la aplicación web Java con Spring Boot**
     - Abrir XAMPP e iniciamos Apache y MySQL
+    > **IMPORTANTE:**
+    > PARA QUE LA APLICACION FUNCIONE CORRECTAMENTE DEBES DE IMPORTAR LA BASE DE DATOS QUE SE ENCUENTRA EN LA CARPETA SCRIPTS
+    > DEBES ABRIR XAMPP Y DAR CLICK EN ADMIN DEL MODULE MYSQL, UNA VEZ DENTRO DE PHPMYADMIN IMPORTA EL SCRIPT MENCIONADO ANTERIORMENTE
     - Ejecutar el proyecto desde IntelliJ IDEA
     - Abrir en el navegador:
       ```
@@ -48,6 +51,3 @@
             Correo Electronico: jose@gmail.com
             Contraseña: 12345678
 ---
-
-> **IMPORTANTE:**  
-> NO ES NECESARIO IMPORTAR LA BASE DE DATOS, YA QUE SE CREA EN MOMENTO DE EJECUCIÓN.
