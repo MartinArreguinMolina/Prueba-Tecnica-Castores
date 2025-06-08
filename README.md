@@ -2,9 +2,6 @@
 # Prueba técnica Castores
 
 ---
-### Sigue la siguiente serie de instrucciones para correr la aplicacion
-
----
 
 ## Herramientas y tecnologías a utilizar
 
